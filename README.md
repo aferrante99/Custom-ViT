@@ -5,8 +5,8 @@ Custom ViT is a personal project developed as part of my Master's Thesis at Sapi
 
 In the following repository it's possible to open:
 
-* Colab Notebook with full code implementation
 * Short presentation of the proposed solution
+* Colab Notebook with full code implementation (which can also be opened directly in Colab [here]()
 * The full master thesis
 
 For any info/problem please write to the following [e-mail](aferrante99@gmail.com).
